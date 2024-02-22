@@ -55,13 +55,10 @@ span{
 /* mobile */
 @media only screen and (max-width:560px) {
     .center{
-        padding: 1% 1%;
+        padding: 3% 1%;
     }
-    span{
-        font-size: 20%;
-        width: 1000%;
-        height: 1000%;
-        white-space: pre;
+    pre > span{
+        font-size: 0.3rem;
     }
 
     h1{
@@ -73,7 +70,7 @@ span{
     }
 
     h3{
-        font-size: 1rem;
+        font-size: 0.5rem;
     }
 
 
