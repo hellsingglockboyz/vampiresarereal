@@ -55,7 +55,7 @@ span{
 /* mobile */
 @media only screen and (max-width:560px) {
     .center{
-        padding: 3% 1%;
+        padding: 1% 1%;
     }
     span{
         font-size: 20%;
